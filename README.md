@@ -24,6 +24,7 @@
 | 🐚 **[custom-c-shell](https://github.com/ankurkundu216-del/custom-c-shell)** | Custom Linux shell supporting background execution, signal handling (`SIGALRM`), and directory manipulation. | `C` `Linux Systems` |
 | 🔄 **[ipc-message-monitor](https://github.com/ankurkundu216-del/ipc-message-monitor)** | C-based Interprocess Message System using Monitor Pattern, Global Buffer Pool, and Deadlock Detection. | `C` `Concurrency` |
 | 🧩 **[LeetCode-DSA](https://github.com/ankurkundu216-del/LeetCode-DSA)** | Optimized solutions for algorithmic problems and core data structures. | `C++` `DSA` |
+| 📡 [python-port-scanner](https://github.com/ankurkundu216-del/python-port-scanner) | TCP Connect & SYN Stealth Port Scanners demonstrating 3-way handshakes and Scapy packet crafting. | `Python` `Scapy` |
 
 ---
 
