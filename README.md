@@ -29,5 +29,5 @@
 
 ### 🌐 Connect With Me
 
-- 🥷 **LeetCode:** [Horny_Pikachu](https://leetcode.com/u/Horny_Pikachu/)
+- 🥷 **LeetCode:** [Ankur_Algo](https://leetcode.com/u/Horny_Pikachu/)
 - 🐙 **GitHub:** [ankurkundu216-del](https://github.com/ankurkundu216-del)
