@@ -18,6 +18,8 @@
 
 ### 🛠️ Featured Projects
 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
 | 🛡️ **[os-internals-and-security](https://github.com/ankurkundu216-del/os-internals-and-security)** | Practical modules on OS internals, memory layout, system calls, GDB registers, and Linux Kernel Modules (LKM). | `C` `OS Internals` |
 | 🔐 **[hybrid-crypto-protocol](https://github.com/ankurkundu216-del/hybrid-crypto-protocol)** | A Python implementation of a hybrid Sign-then-Encrypt cryptographic protocol using RSA, AES-GCM, and Digital Signatures. | `Python` `Cryptography` |
 | 🐧 **[linux-kernel-labs](https://github.com/ankurkundu216-del/linux-kernel-labs)** | Custom Linux kernel modules in C, including parameter passing and memory management testing. | `C` `Kernel` |
