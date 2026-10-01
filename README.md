@@ -18,13 +18,14 @@
 
 ### 🛠️ Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
+| 🛡️ **[os-internals-and-security](https://github.com/ankurkundu216-del/os-internals-and-security)** | Practical modules on OS internals, memory layout, system calls, GDB registers, and Linux Kernel Modules (LKM). | `C` `OS Internals` |
+| 🔐 **[hybrid-crypto-protocol](https://github.com/ankurkundu216-del/hybrid-crypto-protocol)** | A Python implementation of a hybrid Sign-then-Encrypt cryptographic protocol using RSA, AES-GCM, and Digital Signatures. | `Python` `Cryptography` |
+| 🐧 **[linux-kernel-labs](https://github.com/ankurkundu216-del/linux-kernel-labs)** | Custom Linux kernel modules in C, including parameter passing and memory management testing. | `C` `Kernel` |
 | 🤖 **[pytorch-transformer](https://github.com/ankurkundu216-del/pytorch-transformer)** | Complete implementation of the Transformer paper (*Attention Is All You Need*) from scratch. | `PyTorch` `Python` |
-| 🐚 **[custom-c-shell](https://github.com/ankurkundu216-del/custom-c-shell)** | Custom Linux shell supporting background execution, signal handling (`SIGALRM`), and directory manipulation. | `C` `Linux Systems` |
+| 💻 **[custom-c-shell](https://github.com/ankurkundu216-del/custom-c-shell)** | Custom Linux shell supporting background execution, signal handling (`SIGALRM`), and directory manipulation. | `C` `Linux Systems` |
 | 🔄 **[ipc-message-monitor](https://github.com/ankurkundu216-del/ipc-message-monitor)** | C-based Interprocess Message System using Monitor Pattern, Global Buffer Pool, and Deadlock Detection. | `C` `Concurrency` |
+| 🕵️ **[python-port-scanner](https://github.com/ankurkundu216-del/python-port-scanner)** | TCP Connect & SYN Stealth Port Scanners demonstrating 3-way handshakes and Scapy packet crafting. | `Python` `Scapy` |
 | 🧩 **[LeetCode-DSA](https://github.com/ankurkundu216-del/LeetCode-DSA)** | Optimized solutions for algorithmic problems and core data structures. | `C++` `DSA` |
-| 📡 [python-port-scanner](https://github.com/ankurkundu216-del/python-port-scanner) | TCP Connect & SYN Stealth Port Scanners demonstrating 3-way handshakes and Scapy packet crafting. | `Python` `Scapy` |
 
 ---
 
